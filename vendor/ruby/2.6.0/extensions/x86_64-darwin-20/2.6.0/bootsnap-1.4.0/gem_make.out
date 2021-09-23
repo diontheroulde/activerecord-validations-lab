@@ -1,0 +1,15 @@
+current directory: /Users/diontherouldejr/defenders/phase-4/activerecord-validations-lab/vendor/ruby/2.6.0/gems/bootsnap-1.4.0/ext/bootsnap
+/Users/diontherouldejr/.asdf/installs/ruby/2.6.1/bin/ruby -I /Users/diontherouldejr/.asdf/installs/ruby/2.6.1/lib/ruby/2.6.0 -r ./siteconf20210923-58131-1wd2fs1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/diontherouldejr/defenders/phase-4/activerecord-validations-lab/vendor/ruby/2.6.0/gems/bootsnap-1.4.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/diontherouldejr/defenders/phase-4/activerecord-validations-lab/vendor/ruby/2.6.0/gems/bootsnap-1.4.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/diontherouldejr/defenders/phase-4/activerecord-validations-lab/vendor/ruby/2.6.0/gems/bootsnap-1.4.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20210923-58131-1a7cwx9/bootsnap
